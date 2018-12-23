@@ -1,6 +1,5 @@
-// import Block from './components/Block';
-// import Button from './components/Button';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-export { default as Block } from './components/Block';
-
-export { default as Button } from './components/Button';
+ReactDOM.render(<App />, document.getElementById('root'));
