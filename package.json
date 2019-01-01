@@ -1,6 +1,6 @@
 {
   "name": "bb-color",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A Design UI library for React",
   "main": "lib/index.js",
   "module": "esm/index.js",
