@@ -1,6 +1,7 @@
 # BB-color
 
 A Design UI library for React🎈
+
 一个React UI组件库
 
 ## 📦 安装 Install
@@ -36,6 +37,7 @@ https://bb-color.github.io/BB-color/
 ## 💡 其他 Other
 
 想像我一样构建一套属于自己的UI组件库吗？
+
 欢迎访问 [构建教程](https://juejin.im/post/5c28bbdff265da616501a8b3)
 
 
