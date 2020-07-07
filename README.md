@@ -13,10 +13,10 @@ npm i bb-color
 ## 🚩 示例 Usage
 
 ```js
-import React, { Component } from 'react';
-import { Button } from './components';
+import React from 'react';
+import { Button } from "bb-color";
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       <div className="App">
